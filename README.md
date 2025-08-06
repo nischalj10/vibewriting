@@ -51,15 +51,14 @@ You must have the Cursor editor installed.
 
 ### Step-by-Step Guide
 
-1. Clone the Repository:
+1. Clone the Repository using:
 
-Generated bash
 ```git clone https://github.com/rpiplewar/vibewriting.git```
 
 
 2. Open in Cursor:
 - Launch Cursor.
-- Click "Open Project" and select the cursor-writing-workspace folder you just cloned.
+- Click "Open Project" and select the vibewriting folder you just cloned.
 
 3. Customize Your Frameworks:
 - Navigate to the docs/frameworks/ directory.
@@ -69,7 +68,11 @@ Generated bash
 - Add relevant documents to docs/references/.
 - Add content structure examples to docs/templates/.
 
-5. Initiate a Task:
+5. Make sure your cursor settings section on "User Rules" are as follows:
+```always refer to the .cursor/rules file for finding the relevant system prompt to use. Review .cursor/rules files, every message should reference the cursor/rules.
+```
+
+6. Initiate a Task:
 - Open the Chat panel in Cursor (Cmd+K or Ctrl+K).
 - Write a clear, concise prompt describing your goal. Crucially, reference your framework files using the @ symbol.
 
