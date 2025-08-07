@@ -1,6 +1,6 @@
 1. ## **Identifying current value delivery system**
 
-Objective of this research is to identify need gaps in the brand manager’s research journey and current imperfections within it
+Objective of this research is to identify need gaps in the customer’s journey and current imperfections within it
 
 **STEP 1: INTERVIEW 1**
 
@@ -12,7 +12,7 @@ Objective of this research is to identify need gaps in the brand manager’s res
 
 4. How do you tell them, if you tell them, what results they get by buying your product?
 
-*We ask them to share all scenarios of them working on a research right from realization of need for it to finally running the product.* 
+*We ask them to share step by step scenarios of going about the journey from start to end.* 
 
 *Make a note of all the scenes and continue one by one with the below questionnaire:*
 
@@ -23,9 +23,9 @@ Make a note of objectives of this architect as compared to the objectives of the
 
 3. What are the things important for your employer?
 
-Understand what actually happened wrt brand manager’s objective
+Understand what actually happened wrt customer’s objective
 
-4. What happened, in this scene, relative to brand manager’s objectives?  
+4. What happened, in this scene, relative to customer’s objectives?  
 5. What was successful and what was sub-optimal?  
 6. In what ways was this imperfect?   
 7. So what? What are the “end-result consequence” of this imperfect event?
@@ -35,30 +35,6 @@ To the extent possible, try to assign quantify the importance of these end-resul
 8. How important is it this to you? What is lost or not gained?  
 9. Does this event lead to compromise in manager’s objective?  
 10. How frequently does this experience occur?
-
-*We ask them to share all scenarios of them working on a research right from realization of need for it to finally running the product.* 
-
-*Make a note of all the scenes and continue one by one with the below questionnaire:*
-
-11. What is your objective in this scene?  
-12. What do you hope or intend to accomplish? Why, for what further purpose?
-
-Make a note of objectives of this architect as compared to the objectives of their employer
-
-13. What are the things important for your employer?
-
-Understand what actually happened wrt brand manager’s objective
-
-14. What happened, in this scene, relative to brand manager’s objectives?  
-15. What was successful and what was sub-optimal?  
-16. In what ways was this imperfect?   
-17. So what? What are the “end-result consequence” of this imperfect event?
-
-To the extent possible, try to assign quantify the importance of these end-result consequences
-
-18. How important is it this to you? What is lost or not gained?  
-19. Does this event lead to compromise in manager’s objective?  
-20. How frequently does this experience occur?
 
 **STEP 2: RIGHT AFTER THE INTERVIEW**
 
